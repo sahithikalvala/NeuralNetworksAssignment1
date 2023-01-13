@@ -1,0 +1,5 @@
+# Question2
+st ="I love playing with python"
+
+newst = st.replace("python", "pythons")
+print("Output:", newst)
